@@ -1,9 +1,11 @@
 <html>
   <head>
- <title>interactive-vocab-game</title>
-<p>Bu proje, yabancı dil öğrenme sürecini dijitalleştirerek kalıcı öğrenmeyi desteklemek amacıyla Articulate Storyline 360 kullanılarak geliştirilmiş etkileşimli bir e-öğrenme modülüdür. Kullanıcıların kelime bilgisini senaryo tabanlı aktivitelerle test etmelerine olanak tanır.</p>
+    <title> interactive vocabulary game </title>
  </head>
 <body>
+  
+<p>Bu proje, yabancı dil öğrenme sürecini dijitalleştirerek kalıcı öğrenmeyi desteklemek amacıyla Articulate Storyline 360 kullanılarak geliştirilmiş etkileşimli bir e-öğrenme modülüdür. Kullanıcıların kelime bilgisini senaryo tabanlı aktivitelerle test etmelerine olanak tanır.</p>
+
 <h2> Kullanılan Teknolojiler ve Yaklaşımlar: </h2>
 
 <h3> Araç: Articulate Storyline 360 </h3>
